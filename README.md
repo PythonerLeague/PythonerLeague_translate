@@ -1,0 +1,2 @@
+# PythonerLeague_translate
+pyqt5+whisper开发的字幕生成以及视频添加字幕工具
