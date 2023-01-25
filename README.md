@@ -1,2 +1,3 @@
 # PythonerLeague_translate
 pyqt5+whisper开发的字幕生成以及视频添加字幕工具
+安装对应模块直接运行pythoner_league_translate.py即可
