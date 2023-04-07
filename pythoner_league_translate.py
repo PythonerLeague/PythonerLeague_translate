@@ -17,4 +17,4 @@ if __name__ == '__main__':
     sys.exit(app.exec_())
 
 
-#打包语句：pyinstaller --upx-dir=C:\Users\heyj01\Desktop\upx\upx-4.0.1-win64 -D -w pythoner_league_translate.py --copy-metadata tqdm --copy-metadata regex --copy-metadata tokenizers --copy-metadata numpy --copy-metadata regex --copy-metadata packaging --copy-metadata filelock --copy-metadata requests --copy-metadata whisper
+#打包语句：pyinstaller --upx-dir=C:\Users\xxx\Desktop\upx\upx-4.0.1-win64 -D -w pythoner_league_translate.py --copy-metadata tqdm --copy-metadata regex --copy-metadata tokenizers --copy-metadata numpy --copy-metadata regex --copy-metadata packaging --copy-metadata filelock --copy-metadata requests --copy-metadata whisper
